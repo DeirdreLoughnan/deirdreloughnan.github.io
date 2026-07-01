@@ -1,7 +1,6 @@
 layout: home
 ---
-<link rel="shortcut icon" type="image/png" href="/favicon.png?">
-<link rel="shortcut icon" type="image/png" href="/android-chrome-512x512.png">
+
 
 <div class="row">
  <div class="column">
@@ -21,4 +20,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ______
 
-<p> Email: mackenzie [dot] urq [at] gmail [dot] com | Twitter: <a href="https://twitter.com/macurqcron">@macurqcron</a> | GitHub: <a href="https://github.com/macurqcron">@macurqcron</a> </p>
+<p> Footer </p>
