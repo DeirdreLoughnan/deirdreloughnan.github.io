@@ -4,7 +4,7 @@ layout: home
 
 <div class="row">
  <div class="column">
-   <img src="/images/Loughnan_Profile_Pic.jpg" style="width:100%">
+   <img src="images/Loughnan_Profile_Pic.jpg" style="width:100%">
  </div>
 </div>
 <br>
