@@ -1,13 +1,6 @@
 
 title: Deirdre Loughnan
-email: deirdre [dot] loughnan [at] ubc [dot] ca
-description: >- # this means to ignore newlines until "baseurl:"
-  Zoology Department | UBC | Hakai Research Institute
-# baseurl: "/DeirdreLoughnan" # the subpath of your site, e.g. /blog
-
-
-# Build settings
-
+description: Personal website
 theme: minima
 
 
